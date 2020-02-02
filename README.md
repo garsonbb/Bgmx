@@ -6,7 +6,12 @@
 
 # 靓照
 
-#还存在的问题
+![](https://raw.githubusercontent.com/garsonbb/bgmX/master/doc/Screenshot_2020-02-02-10-55-09-062_top.garnote.bgmx.jpg)
+![](https://raw.githubusercontent.com/garsonbb/bgmX/master/doc/Screenshot_2020-02-02-10-54-25-144_top.garnote.bgmx.jpg)
+![](https://raw.githubusercontent.com/garsonbb/bgmX/master/doc/Screenshot_2020-02-02-10-54-35-292_top.garnote.bgmx.jpg)
+![](https://raw.githubusercontent.com/garsonbb/bgmX/master/doc/Screenshot_2020-02-02-10-54-50-032_top.garnote.bgmx.jpg)
+
+# 还存在的问题
 1. 对于番剧的收藏菜单，“想看，看过，抛弃，移除记录”的功能都是假的，统一是“想看”，api的问题，不关我事。但是剧集的收藏菜单是正常的。
 2. 寻找资源是假的。
 3. 头像不会改变。
